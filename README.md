@@ -17,7 +17,9 @@ Reinforcement Learning: Reinforcement learning is applied to build an automated 
 ## Required Files:
 
 GBPUSD_25_4_23.csv : Dataset used in the project
+
 GBPUSD_Transformer_NLP802_Project.ipynb : supervised learning approach using transformer code
+
 Transformer_GBPUSD_Reduced_Y_Not_Averaged_NoValid_V1.hdf5 : output model weights
 
 Reinforcment_Learning_Project_Code.ipynb : Reinforcement learning approach code.
