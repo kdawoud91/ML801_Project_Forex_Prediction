@@ -14,4 +14,13 @@ Supervised Learning: In this phase, historical Forex price data is used to train
 
 Reinforcement Learning: Reinforcement learning is applied to build an automated trading agent that makes decisions based on the predictions generated. The agent learns to take actions (e.g., buy, sell, hold) in a simulated trading environment and is optimized for profit maximization.
 
-# Required Files:
+## Required Files:
+
+GBPUSD_25_4_23.csv : Dataset used in the project
+GBPUSD_Transformer_NLP802_Project.ipynb : supervised learning approach using transformer code
+Transformer_GBPUSD_Reduced_Y_Not_Averaged_NoValid_V1.hdf5 : output model weights
+
+Reinforcment_Learning_Project_Code.ipynb : Reinforcement learning approach code.
+
+requirments.yml : used environment with required libraries.
+
